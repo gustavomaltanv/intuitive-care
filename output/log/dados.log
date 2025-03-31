@@ -1,0 +1,911 @@
+2025-03-31 12:29:32,422 [pdf_processor] [INFO] Iniciando processamento do arquivo: ../output/download/Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025-03-31 12:29:32,422 [pdf_processor] [INFO] Extraindo legendas das chaves: ['OD', 'AMB']
+2025-03-31 12:30:01,534 [pdf_processor] [INFO] Legendas extraídas: {'OD': 'Seg. Odontológica', 'AMB': 'Seg. Ambulatorial'}
+2025-03-31 12:30:01,891 [pdf_processor] [INFO] Total de páginas no PDF: 181
+2025-03-31 12:30:01,896 [pdf_processor] [INFO] Processando página 1 de 181
+2025-03-31 12:30:03,584 [pdf_processor] [INFO] Iniciando normalização da página: 1
+2025-03-31 12:30:03,584 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:03,585 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:03,585 [pdf_processor] [WARNING] DataFrame vazio após normalização na página 1
+2025-03-31 12:30:03,585 [pdf_processor] [INFO] Processando página 2 de 181
+2025-03-31 12:30:05,179 [pdf_processor] [INFO] Iniciando normalização da página: 2
+2025-03-31 12:30:05,179 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:05,180 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:05,180 [pdf_processor] [WARNING] DataFrame vazio após normalização na página 2
+2025-03-31 12:30:05,180 [pdf_processor] [INFO] Processando página 3 de 181
+2025-03-31 12:30:07,023 [pdf_processor] [INFO] Iniciando normalização da página: 3
+2025-03-31 12:30:07,023 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:07,030 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:07,034 [pdf_processor] [INFO] Dados da página 3 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:07,034 [pdf_processor] [INFO] Processando página 4 de 181
+2025-03-31 12:30:08,791 [pdf_processor] [INFO] Iniciando normalização da página: 4
+2025-03-31 12:30:08,791 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:08,798 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:08,799 [pdf_processor] [INFO] Dados da página 4 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:08,799 [pdf_processor] [INFO] Processando página 5 de 181
+2025-03-31 12:30:10,506 [pdf_processor] [INFO] Iniciando normalização da página: 5
+2025-03-31 12:30:10,506 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:10,512 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:10,513 [pdf_processor] [INFO] Dados da página 5 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:10,514 [pdf_processor] [INFO] Processando página 6 de 181
+2025-03-31 12:30:12,229 [pdf_processor] [INFO] Iniciando normalização da página: 6
+2025-03-31 12:30:12,229 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:12,236 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:12,237 [pdf_processor] [INFO] Dados da página 6 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:12,237 [pdf_processor] [INFO] Processando página 7 de 181
+2025-03-31 12:30:14,010 [pdf_processor] [INFO] Iniciando normalização da página: 7
+2025-03-31 12:30:14,011 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:14,017 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:14,018 [pdf_processor] [INFO] Dados da página 7 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:14,018 [pdf_processor] [INFO] Processando página 8 de 181
+2025-03-31 12:30:15,747 [pdf_processor] [INFO] Iniciando normalização da página: 8
+2025-03-31 12:30:15,747 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:15,755 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:15,756 [pdf_processor] [INFO] Dados da página 8 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:15,756 [pdf_processor] [INFO] Processando página 9 de 181
+2025-03-31 12:30:17,564 [pdf_processor] [INFO] Iniciando normalização da página: 9
+2025-03-31 12:30:17,564 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:17,571 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:17,572 [pdf_processor] [INFO] Dados da página 9 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:17,572 [pdf_processor] [INFO] Processando página 10 de 181
+2025-03-31 12:30:19,364 [pdf_processor] [INFO] Iniciando normalização da página: 10
+2025-03-31 12:30:19,365 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:19,371 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:19,372 [pdf_processor] [INFO] Dados da página 10 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:19,372 [pdf_processor] [INFO] Processando página 11 de 181
+2025-03-31 12:30:21,092 [pdf_processor] [INFO] Iniciando normalização da página: 11
+2025-03-31 12:30:21,092 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:21,098 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:21,099 [pdf_processor] [INFO] Dados da página 11 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:21,099 [pdf_processor] [INFO] Processando página 12 de 181
+2025-03-31 12:30:22,909 [pdf_processor] [INFO] Iniciando normalização da página: 12
+2025-03-31 12:30:22,909 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:22,916 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:22,917 [pdf_processor] [INFO] Dados da página 12 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:22,917 [pdf_processor] [INFO] Processando página 13 de 181
+2025-03-31 12:30:24,640 [pdf_processor] [INFO] Iniciando normalização da página: 13
+2025-03-31 12:30:24,640 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:24,651 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:24,652 [pdf_processor] [INFO] Dados da página 13 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:24,652 [pdf_processor] [INFO] Processando página 14 de 181
+2025-03-31 12:30:26,417 [pdf_processor] [INFO] Iniciando normalização da página: 14
+2025-03-31 12:30:26,417 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:26,424 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:26,425 [pdf_processor] [INFO] Dados da página 14 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:26,425 [pdf_processor] [INFO] Processando página 15 de 181
+2025-03-31 12:30:28,139 [pdf_processor] [INFO] Iniciando normalização da página: 15
+2025-03-31 12:30:28,139 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:28,146 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:28,146 [pdf_processor] [INFO] Dados da página 15 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:28,147 [pdf_processor] [INFO] Processando página 16 de 181
+2025-03-31 12:30:29,914 [pdf_processor] [INFO] Iniciando normalização da página: 16
+2025-03-31 12:30:29,914 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:29,921 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:29,922 [pdf_processor] [INFO] Dados da página 16 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:29,922 [pdf_processor] [INFO] Processando página 17 de 181
+2025-03-31 12:30:31,726 [pdf_processor] [INFO] Iniciando normalização da página: 17
+2025-03-31 12:30:31,726 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:31,733 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:31,734 [pdf_processor] [INFO] Dados da página 17 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:31,734 [pdf_processor] [INFO] Processando página 18 de 181
+2025-03-31 12:30:33,456 [pdf_processor] [INFO] Iniciando normalização da página: 18
+2025-03-31 12:30:33,457 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:33,464 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:33,464 [pdf_processor] [INFO] Dados da página 18 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:33,464 [pdf_processor] [INFO] Processando página 19 de 181
+2025-03-31 12:30:35,335 [pdf_processor] [INFO] Iniciando normalização da página: 19
+2025-03-31 12:30:35,335 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:35,342 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:35,343 [pdf_processor] [INFO] Dados da página 19 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:35,343 [pdf_processor] [INFO] Processando página 20 de 181
+2025-03-31 12:30:37,121 [pdf_processor] [INFO] Iniciando normalização da página: 20
+2025-03-31 12:30:37,121 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:37,128 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:37,128 [pdf_processor] [INFO] Dados da página 20 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:37,128 [pdf_processor] [INFO] Processando página 21 de 181
+2025-03-31 12:30:39,002 [pdf_processor] [INFO] Iniciando normalização da página: 21
+2025-03-31 12:30:39,003 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:39,010 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:39,011 [pdf_processor] [INFO] Dados da página 21 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:39,011 [pdf_processor] [INFO] Processando página 22 de 181
+2025-03-31 12:30:40,871 [pdf_processor] [INFO] Iniciando normalização da página: 22
+2025-03-31 12:30:40,871 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:40,878 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:40,879 [pdf_processor] [INFO] Dados da página 22 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:40,879 [pdf_processor] [INFO] Processando página 23 de 181
+2025-03-31 12:30:42,697 [pdf_processor] [INFO] Iniciando normalização da página: 23
+2025-03-31 12:30:42,697 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:42,704 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:42,705 [pdf_processor] [INFO] Dados da página 23 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:42,705 [pdf_processor] [INFO] Processando página 24 de 181
+2025-03-31 12:30:44,425 [pdf_processor] [INFO] Iniciando normalização da página: 24
+2025-03-31 12:30:44,425 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:44,431 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:44,432 [pdf_processor] [INFO] Dados da página 24 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:44,432 [pdf_processor] [INFO] Processando página 25 de 181
+2025-03-31 12:30:46,150 [pdf_processor] [INFO] Iniciando normalização da página: 25
+2025-03-31 12:30:46,151 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:46,157 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:46,158 [pdf_processor] [INFO] Dados da página 25 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:46,158 [pdf_processor] [INFO] Processando página 26 de 181
+2025-03-31 12:30:48,018 [pdf_processor] [INFO] Iniciando normalização da página: 26
+2025-03-31 12:30:48,018 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:48,024 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:48,025 [pdf_processor] [INFO] Dados da página 26 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:48,025 [pdf_processor] [INFO] Processando página 27 de 181
+2025-03-31 12:30:49,798 [pdf_processor] [INFO] Iniciando normalização da página: 27
+2025-03-31 12:30:49,798 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:49,806 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:49,806 [pdf_processor] [INFO] Dados da página 27 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:49,807 [pdf_processor] [INFO] Processando página 28 de 181
+2025-03-31 12:30:51,580 [pdf_processor] [INFO] Iniciando normalização da página: 28
+2025-03-31 12:30:51,581 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:51,587 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:51,588 [pdf_processor] [INFO] Dados da página 28 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:51,588 [pdf_processor] [INFO] Processando página 29 de 181
+2025-03-31 12:30:53,335 [pdf_processor] [INFO] Iniciando normalização da página: 29
+2025-03-31 12:30:53,335 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:53,342 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:53,343 [pdf_processor] [INFO] Dados da página 29 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:53,343 [pdf_processor] [INFO] Processando página 30 de 181
+2025-03-31 12:30:55,189 [pdf_processor] [INFO] Iniciando normalização da página: 30
+2025-03-31 12:30:55,189 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:55,195 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:55,196 [pdf_processor] [INFO] Dados da página 30 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:55,196 [pdf_processor] [INFO] Processando página 31 de 181
+2025-03-31 12:30:56,955 [pdf_processor] [INFO] Iniciando normalização da página: 31
+2025-03-31 12:30:56,955 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:56,962 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:56,963 [pdf_processor] [INFO] Dados da página 31 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:56,963 [pdf_processor] [INFO] Processando página 32 de 181
+2025-03-31 12:30:58,754 [pdf_processor] [INFO] Iniciando normalização da página: 32
+2025-03-31 12:30:58,754 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:30:58,761 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:30:58,762 [pdf_processor] [INFO] Dados da página 32 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:30:58,762 [pdf_processor] [INFO] Processando página 33 de 181
+2025-03-31 12:31:00,522 [pdf_processor] [INFO] Iniciando normalização da página: 33
+2025-03-31 12:31:00,522 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:00,528 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:00,529 [pdf_processor] [INFO] Dados da página 33 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:00,529 [pdf_processor] [INFO] Processando página 34 de 181
+2025-03-31 12:31:02,221 [pdf_processor] [INFO] Iniciando normalização da página: 34
+2025-03-31 12:31:02,221 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:02,228 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:02,229 [pdf_processor] [INFO] Dados da página 34 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:02,229 [pdf_processor] [INFO] Processando página 35 de 181
+2025-03-31 12:31:04,040 [pdf_processor] [INFO] Iniciando normalização da página: 35
+2025-03-31 12:31:04,041 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:04,047 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:04,048 [pdf_processor] [INFO] Dados da página 35 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:04,048 [pdf_processor] [INFO] Processando página 36 de 181
+2025-03-31 12:31:05,864 [pdf_processor] [INFO] Iniciando normalização da página: 36
+2025-03-31 12:31:05,864 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:05,872 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:05,872 [pdf_processor] [INFO] Dados da página 36 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:05,873 [pdf_processor] [INFO] Processando página 37 de 181
+2025-03-31 12:31:07,647 [pdf_processor] [INFO] Iniciando normalização da página: 37
+2025-03-31 12:31:07,647 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:07,654 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:07,655 [pdf_processor] [INFO] Dados da página 37 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:07,655 [pdf_processor] [INFO] Processando página 38 de 181
+2025-03-31 12:31:09,491 [pdf_processor] [INFO] Iniciando normalização da página: 38
+2025-03-31 12:31:09,491 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:09,498 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:09,499 [pdf_processor] [INFO] Dados da página 38 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:09,499 [pdf_processor] [INFO] Processando página 39 de 181
+2025-03-31 12:31:11,252 [pdf_processor] [INFO] Iniciando normalização da página: 39
+2025-03-31 12:31:11,252 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:11,259 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:11,259 [pdf_processor] [INFO] Dados da página 39 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:11,259 [pdf_processor] [INFO] Processando página 40 de 181
+2025-03-31 12:31:13,064 [pdf_processor] [INFO] Iniciando normalização da página: 40
+2025-03-31 12:31:13,064 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:13,071 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:13,072 [pdf_processor] [INFO] Dados da página 40 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:13,072 [pdf_processor] [INFO] Processando página 41 de 181
+2025-03-31 12:31:14,848 [pdf_processor] [INFO] Iniciando normalização da página: 41
+2025-03-31 12:31:14,848 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:14,855 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:14,856 [pdf_processor] [INFO] Dados da página 41 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:14,856 [pdf_processor] [INFO] Processando página 42 de 181
+2025-03-31 12:31:16,734 [pdf_processor] [INFO] Iniciando normalização da página: 42
+2025-03-31 12:31:16,734 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:16,740 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:16,741 [pdf_processor] [INFO] Dados da página 42 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:16,741 [pdf_processor] [INFO] Processando página 43 de 181
+2025-03-31 12:31:18,587 [pdf_processor] [INFO] Iniciando normalização da página: 43
+2025-03-31 12:31:18,587 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:18,594 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:18,595 [pdf_processor] [INFO] Dados da página 43 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:18,595 [pdf_processor] [INFO] Processando página 44 de 181
+2025-03-31 12:31:20,412 [pdf_processor] [INFO] Iniciando normalização da página: 44
+2025-03-31 12:31:20,412 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:20,418 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:20,419 [pdf_processor] [INFO] Dados da página 44 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:20,419 [pdf_processor] [INFO] Processando página 45 de 181
+2025-03-31 12:31:22,263 [pdf_processor] [INFO] Iniciando normalização da página: 45
+2025-03-31 12:31:22,263 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:22,270 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:22,271 [pdf_processor] [INFO] Dados da página 45 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:22,271 [pdf_processor] [INFO] Processando página 46 de 181
+2025-03-31 12:31:24,017 [pdf_processor] [INFO] Iniciando normalização da página: 46
+2025-03-31 12:31:24,017 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:24,023 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:24,024 [pdf_processor] [INFO] Dados da página 46 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:24,024 [pdf_processor] [INFO] Processando página 47 de 181
+2025-03-31 12:31:25,933 [pdf_processor] [INFO] Iniciando normalização da página: 47
+2025-03-31 12:31:25,933 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:25,939 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:25,940 [pdf_processor] [INFO] Dados da página 47 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:25,940 [pdf_processor] [INFO] Processando página 48 de 181
+2025-03-31 12:31:27,767 [pdf_processor] [INFO] Iniciando normalização da página: 48
+2025-03-31 12:31:27,768 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:27,774 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:27,775 [pdf_processor] [INFO] Dados da página 48 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:27,775 [pdf_processor] [INFO] Processando página 49 de 181
+2025-03-31 12:31:29,670 [pdf_processor] [INFO] Iniciando normalização da página: 49
+2025-03-31 12:31:29,670 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:29,677 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:29,678 [pdf_processor] [INFO] Dados da página 49 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:29,678 [pdf_processor] [INFO] Processando página 50 de 181
+2025-03-31 12:31:31,506 [pdf_processor] [INFO] Iniciando normalização da página: 50
+2025-03-31 12:31:31,506 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:31,513 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:31,514 [pdf_processor] [INFO] Dados da página 50 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:31,514 [pdf_processor] [INFO] Processando página 51 de 181
+2025-03-31 12:31:33,539 [pdf_processor] [INFO] Iniciando normalização da página: 51
+2025-03-31 12:31:33,539 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:33,545 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:33,546 [pdf_processor] [INFO] Dados da página 51 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:33,546 [pdf_processor] [INFO] Processando página 52 de 181
+2025-03-31 12:31:35,443 [pdf_processor] [INFO] Iniciando normalização da página: 52
+2025-03-31 12:31:35,443 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:35,450 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:35,451 [pdf_processor] [INFO] Dados da página 52 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:35,451 [pdf_processor] [INFO] Processando página 53 de 181
+2025-03-31 12:31:37,258 [pdf_processor] [INFO] Iniciando normalização da página: 53
+2025-03-31 12:31:37,258 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:37,265 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:37,266 [pdf_processor] [INFO] Dados da página 53 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:37,266 [pdf_processor] [INFO] Processando página 54 de 181
+2025-03-31 12:31:39,117 [pdf_processor] [INFO] Iniciando normalização da página: 54
+2025-03-31 12:31:39,117 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:39,123 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:39,124 [pdf_processor] [INFO] Dados da página 54 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:39,124 [pdf_processor] [INFO] Processando página 55 de 181
+2025-03-31 12:31:40,958 [pdf_processor] [INFO] Iniciando normalização da página: 55
+2025-03-31 12:31:40,958 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:40,965 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:40,966 [pdf_processor] [INFO] Dados da página 55 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:40,966 [pdf_processor] [INFO] Processando página 56 de 181
+2025-03-31 12:31:42,771 [pdf_processor] [INFO] Iniciando normalização da página: 56
+2025-03-31 12:31:42,771 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:42,777 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:42,778 [pdf_processor] [INFO] Dados da página 56 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:42,778 [pdf_processor] [INFO] Processando página 57 de 181
+2025-03-31 12:31:44,630 [pdf_processor] [INFO] Iniciando normalização da página: 57
+2025-03-31 12:31:44,630 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:44,637 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:44,637 [pdf_processor] [INFO] Dados da página 57 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:44,637 [pdf_processor] [INFO] Processando página 58 de 181
+2025-03-31 12:31:46,414 [pdf_processor] [INFO] Iniciando normalização da página: 58
+2025-03-31 12:31:46,414 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:46,420 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:46,421 [pdf_processor] [INFO] Dados da página 58 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:46,421 [pdf_processor] [INFO] Processando página 59 de 181
+2025-03-31 12:31:48,280 [pdf_processor] [INFO] Iniciando normalização da página: 59
+2025-03-31 12:31:48,281 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:48,288 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:48,288 [pdf_processor] [INFO] Dados da página 59 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:48,288 [pdf_processor] [INFO] Processando página 60 de 181
+2025-03-31 12:31:50,228 [pdf_processor] [INFO] Iniciando normalização da página: 60
+2025-03-31 12:31:50,228 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:50,234 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:50,235 [pdf_processor] [INFO] Dados da página 60 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:50,235 [pdf_processor] [INFO] Processando página 61 de 181
+2025-03-31 12:31:51,922 [pdf_processor] [INFO] Iniciando normalização da página: 61
+2025-03-31 12:31:51,922 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:51,928 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:51,929 [pdf_processor] [INFO] Dados da página 61 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:51,929 [pdf_processor] [INFO] Processando página 62 de 181
+2025-03-31 12:31:53,642 [pdf_processor] [INFO] Iniciando normalização da página: 62
+2025-03-31 12:31:53,642 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:53,650 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:53,651 [pdf_processor] [INFO] Dados da página 62 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:53,651 [pdf_processor] [INFO] Processando página 63 de 181
+2025-03-31 12:31:55,453 [pdf_processor] [INFO] Iniciando normalização da página: 63
+2025-03-31 12:31:55,454 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:55,460 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:55,461 [pdf_processor] [INFO] Dados da página 63 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:55,461 [pdf_processor] [INFO] Processando página 64 de 181
+2025-03-31 12:31:57,398 [pdf_processor] [INFO] Iniciando normalização da página: 64
+2025-03-31 12:31:57,398 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:57,405 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:57,406 [pdf_processor] [INFO] Dados da página 64 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:57,406 [pdf_processor] [INFO] Processando página 65 de 181
+2025-03-31 12:31:59,230 [pdf_processor] [INFO] Iniciando normalização da página: 65
+2025-03-31 12:31:59,230 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:31:59,236 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:31:59,237 [pdf_processor] [INFO] Dados da página 65 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:31:59,237 [pdf_processor] [INFO] Processando página 66 de 181
+2025-03-31 12:32:01,080 [pdf_processor] [INFO] Iniciando normalização da página: 66
+2025-03-31 12:32:01,080 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:01,087 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:01,088 [pdf_processor] [INFO] Dados da página 66 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:01,088 [pdf_processor] [INFO] Processando página 67 de 181
+2025-03-31 12:32:02,845 [pdf_processor] [INFO] Iniciando normalização da página: 67
+2025-03-31 12:32:02,845 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:02,851 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:02,852 [pdf_processor] [INFO] Dados da página 67 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:02,852 [pdf_processor] [INFO] Processando página 68 de 181
+2025-03-31 12:32:04,592 [pdf_processor] [INFO] Iniciando normalização da página: 68
+2025-03-31 12:32:04,592 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:04,599 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:04,600 [pdf_processor] [INFO] Dados da página 68 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:04,600 [pdf_processor] [INFO] Processando página 69 de 181
+2025-03-31 12:32:06,443 [pdf_processor] [INFO] Iniciando normalização da página: 69
+2025-03-31 12:32:06,444 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:06,450 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:06,451 [pdf_processor] [INFO] Dados da página 69 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:06,451 [pdf_processor] [INFO] Processando página 70 de 181
+2025-03-31 12:32:08,317 [pdf_processor] [INFO] Iniciando normalização da página: 70
+2025-03-31 12:32:08,317 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:08,324 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:08,324 [pdf_processor] [INFO] Dados da página 70 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:08,325 [pdf_processor] [INFO] Processando página 71 de 181
+2025-03-31 12:32:10,247 [pdf_processor] [INFO] Iniciando normalização da página: 71
+2025-03-31 12:32:10,247 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:10,254 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:10,255 [pdf_processor] [INFO] Dados da página 71 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:10,255 [pdf_processor] [INFO] Processando página 72 de 181
+2025-03-31 12:32:12,106 [pdf_processor] [INFO] Iniciando normalização da página: 72
+2025-03-31 12:32:12,106 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:12,112 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:12,113 [pdf_processor] [INFO] Dados da página 72 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:12,113 [pdf_processor] [INFO] Processando página 73 de 181
+2025-03-31 12:32:13,931 [pdf_processor] [INFO] Iniciando normalização da página: 73
+2025-03-31 12:32:13,931 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:13,938 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:13,939 [pdf_processor] [INFO] Dados da página 73 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:13,939 [pdf_processor] [INFO] Processando página 74 de 181
+2025-03-31 12:32:15,718 [pdf_processor] [INFO] Iniciando normalização da página: 74
+2025-03-31 12:32:15,718 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:15,724 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:15,725 [pdf_processor] [INFO] Dados da página 74 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:15,725 [pdf_processor] [INFO] Processando página 75 de 181
+2025-03-31 12:32:17,514 [pdf_processor] [INFO] Iniciando normalização da página: 75
+2025-03-31 12:32:17,514 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:17,520 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:17,521 [pdf_processor] [INFO] Dados da página 75 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:17,521 [pdf_processor] [INFO] Processando página 76 de 181
+2025-03-31 12:32:19,350 [pdf_processor] [INFO] Iniciando normalização da página: 76
+2025-03-31 12:32:19,350 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:19,357 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:19,357 [pdf_processor] [INFO] Dados da página 76 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:19,357 [pdf_processor] [INFO] Processando página 77 de 181
+2025-03-31 12:32:21,168 [pdf_processor] [INFO] Iniciando normalização da página: 77
+2025-03-31 12:32:21,168 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:21,175 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:21,175 [pdf_processor] [INFO] Dados da página 77 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:21,175 [pdf_processor] [INFO] Processando página 78 de 181
+2025-03-31 12:32:22,852 [pdf_processor] [INFO] Iniciando normalização da página: 78
+2025-03-31 12:32:22,852 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:22,858 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:22,859 [pdf_processor] [INFO] Dados da página 78 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:22,859 [pdf_processor] [INFO] Processando página 79 de 181
+2025-03-31 12:32:24,642 [pdf_processor] [INFO] Iniciando normalização da página: 79
+2025-03-31 12:32:24,642 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:24,649 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:24,649 [pdf_processor] [INFO] Dados da página 79 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:24,649 [pdf_processor] [INFO] Processando página 80 de 181
+2025-03-31 12:32:26,573 [pdf_processor] [INFO] Iniciando normalização da página: 80
+2025-03-31 12:32:26,574 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:26,580 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:26,581 [pdf_processor] [INFO] Dados da página 80 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:26,581 [pdf_processor] [INFO] Processando página 81 de 181
+2025-03-31 12:32:28,379 [pdf_processor] [INFO] Iniciando normalização da página: 81
+2025-03-31 12:32:28,380 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:28,386 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:28,387 [pdf_processor] [INFO] Dados da página 81 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:28,387 [pdf_processor] [INFO] Processando página 82 de 181
+2025-03-31 12:32:30,200 [pdf_processor] [INFO] Iniciando normalização da página: 82
+2025-03-31 12:32:30,201 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:30,207 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:30,208 [pdf_processor] [INFO] Dados da página 82 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:30,208 [pdf_processor] [INFO] Processando página 83 de 181
+2025-03-31 12:32:31,954 [pdf_processor] [INFO] Iniciando normalização da página: 83
+2025-03-31 12:32:31,954 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:31,960 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:31,961 [pdf_processor] [INFO] Dados da página 83 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:31,961 [pdf_processor] [INFO] Processando página 84 de 181
+2025-03-31 12:32:33,773 [pdf_processor] [INFO] Iniciando normalização da página: 84
+2025-03-31 12:32:33,773 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:33,779 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:33,780 [pdf_processor] [INFO] Dados da página 84 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:33,780 [pdf_processor] [INFO] Processando página 85 de 181
+2025-03-31 12:32:35,549 [pdf_processor] [INFO] Iniciando normalização da página: 85
+2025-03-31 12:32:35,549 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:35,556 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:35,556 [pdf_processor] [INFO] Dados da página 85 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:35,556 [pdf_processor] [INFO] Processando página 86 de 181
+2025-03-31 12:32:37,426 [pdf_processor] [INFO] Iniciando normalização da página: 86
+2025-03-31 12:32:37,426 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:37,433 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:37,434 [pdf_processor] [INFO] Dados da página 86 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:37,434 [pdf_processor] [INFO] Processando página 87 de 181
+2025-03-31 12:32:39,225 [pdf_processor] [INFO] Iniciando normalização da página: 87
+2025-03-31 12:32:39,225 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:39,232 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:39,232 [pdf_processor] [INFO] Dados da página 87 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:39,232 [pdf_processor] [INFO] Processando página 88 de 181
+2025-03-31 12:32:41,037 [pdf_processor] [INFO] Iniciando normalização da página: 88
+2025-03-31 12:32:41,037 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:41,045 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:41,045 [pdf_processor] [INFO] Dados da página 88 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:41,045 [pdf_processor] [INFO] Processando página 89 de 181
+2025-03-31 12:32:42,860 [pdf_processor] [INFO] Iniciando normalização da página: 89
+2025-03-31 12:32:42,860 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:42,867 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:42,868 [pdf_processor] [INFO] Dados da página 89 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:42,868 [pdf_processor] [INFO] Processando página 90 de 181
+2025-03-31 12:32:44,678 [pdf_processor] [INFO] Iniciando normalização da página: 90
+2025-03-31 12:32:44,678 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:44,685 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:44,686 [pdf_processor] [INFO] Dados da página 90 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:44,686 [pdf_processor] [INFO] Processando página 91 de 181
+2025-03-31 12:32:46,463 [pdf_processor] [INFO] Iniciando normalização da página: 91
+2025-03-31 12:32:46,463 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:46,470 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:46,470 [pdf_processor] [INFO] Dados da página 91 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:46,470 [pdf_processor] [INFO] Processando página 92 de 181
+2025-03-31 12:32:48,230 [pdf_processor] [INFO] Iniciando normalização da página: 92
+2025-03-31 12:32:48,230 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:48,237 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:48,238 [pdf_processor] [INFO] Dados da página 92 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:48,238 [pdf_processor] [INFO] Processando página 93 de 181
+2025-03-31 12:32:50,002 [pdf_processor] [INFO] Iniciando normalização da página: 93
+2025-03-31 12:32:50,002 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:50,009 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:50,009 [pdf_processor] [INFO] Dados da página 93 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:50,009 [pdf_processor] [INFO] Processando página 94 de 181
+2025-03-31 12:32:51,831 [pdf_processor] [INFO] Iniciando normalização da página: 94
+2025-03-31 12:32:51,831 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:51,837 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:51,838 [pdf_processor] [INFO] Dados da página 94 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:51,838 [pdf_processor] [INFO] Processando página 95 de 181
+2025-03-31 12:32:53,642 [pdf_processor] [INFO] Iniciando normalização da página: 95
+2025-03-31 12:32:53,642 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:53,649 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:53,650 [pdf_processor] [INFO] Dados da página 95 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:53,650 [pdf_processor] [INFO] Processando página 96 de 181
+2025-03-31 12:32:55,534 [pdf_processor] [INFO] Iniciando normalização da página: 96
+2025-03-31 12:32:55,534 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:55,540 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:55,541 [pdf_processor] [INFO] Dados da página 96 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:55,541 [pdf_processor] [INFO] Processando página 97 de 181
+2025-03-31 12:32:57,331 [pdf_processor] [INFO] Iniciando normalização da página: 97
+2025-03-31 12:32:57,331 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:57,338 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:57,339 [pdf_processor] [INFO] Dados da página 97 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:57,339 [pdf_processor] [INFO] Processando página 98 de 181
+2025-03-31 12:32:59,129 [pdf_processor] [INFO] Iniciando normalização da página: 98
+2025-03-31 12:32:59,129 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:32:59,135 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:32:59,136 [pdf_processor] [INFO] Dados da página 98 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:32:59,136 [pdf_processor] [INFO] Processando página 99 de 181
+2025-03-31 12:33:00,935 [pdf_processor] [INFO] Iniciando normalização da página: 99
+2025-03-31 12:33:00,935 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:00,941 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:00,942 [pdf_processor] [INFO] Dados da página 99 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:00,942 [pdf_processor] [INFO] Processando página 100 de 181
+2025-03-31 12:33:02,747 [pdf_processor] [INFO] Iniciando normalização da página: 100
+2025-03-31 12:33:02,747 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:02,754 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:02,754 [pdf_processor] [INFO] Dados da página 100 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:02,754 [pdf_processor] [INFO] Processando página 101 de 181
+2025-03-31 12:33:04,621 [pdf_processor] [INFO] Iniciando normalização da página: 101
+2025-03-31 12:33:04,621 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:04,628 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:04,629 [pdf_processor] [INFO] Dados da página 101 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:04,629 [pdf_processor] [INFO] Processando página 102 de 181
+2025-03-31 12:33:06,411 [pdf_processor] [INFO] Iniciando normalização da página: 102
+2025-03-31 12:33:06,411 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:06,418 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:06,419 [pdf_processor] [INFO] Dados da página 102 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:06,419 [pdf_processor] [INFO] Processando página 103 de 181
+2025-03-31 12:33:08,208 [pdf_processor] [INFO] Iniciando normalização da página: 103
+2025-03-31 12:33:08,208 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:08,215 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:08,216 [pdf_processor] [INFO] Dados da página 103 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:08,216 [pdf_processor] [INFO] Processando página 104 de 181
+2025-03-31 12:33:10,028 [pdf_processor] [INFO] Iniciando normalização da página: 104
+2025-03-31 12:33:10,028 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:10,035 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:10,035 [pdf_processor] [INFO] Dados da página 104 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:10,035 [pdf_processor] [INFO] Processando página 105 de 181
+2025-03-31 12:33:11,894 [pdf_processor] [INFO] Iniciando normalização da página: 105
+2025-03-31 12:33:11,894 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:11,901 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:11,902 [pdf_processor] [INFO] Dados da página 105 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:11,902 [pdf_processor] [INFO] Processando página 106 de 181
+2025-03-31 12:33:13,761 [pdf_processor] [INFO] Iniciando normalização da página: 106
+2025-03-31 12:33:13,761 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:13,768 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:13,769 [pdf_processor] [INFO] Dados da página 106 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:13,769 [pdf_processor] [INFO] Processando página 107 de 181
+2025-03-31 12:33:15,555 [pdf_processor] [INFO] Iniciando normalização da página: 107
+2025-03-31 12:33:15,555 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:15,562 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:15,563 [pdf_processor] [INFO] Dados da página 107 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:15,563 [pdf_processor] [INFO] Processando página 108 de 181
+2025-03-31 12:33:17,309 [pdf_processor] [INFO] Iniciando normalização da página: 108
+2025-03-31 12:33:17,309 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:17,316 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:17,316 [pdf_processor] [INFO] Dados da página 108 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:17,316 [pdf_processor] [INFO] Processando página 109 de 181
+2025-03-31 12:33:19,219 [pdf_processor] [INFO] Iniciando normalização da página: 109
+2025-03-31 12:33:19,219 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:19,226 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:19,227 [pdf_processor] [INFO] Dados da página 109 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:19,227 [pdf_processor] [INFO] Processando página 110 de 181
+2025-03-31 12:33:21,159 [pdf_processor] [INFO] Iniciando normalização da página: 110
+2025-03-31 12:33:21,160 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:21,166 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:21,167 [pdf_processor] [INFO] Dados da página 110 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:21,167 [pdf_processor] [INFO] Processando página 111 de 181
+2025-03-31 12:33:22,976 [pdf_processor] [INFO] Iniciando normalização da página: 111
+2025-03-31 12:33:22,976 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:22,983 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:22,983 [pdf_processor] [INFO] Dados da página 111 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:22,983 [pdf_processor] [INFO] Processando página 112 de 181
+2025-03-31 12:33:24,774 [pdf_processor] [INFO] Iniciando normalização da página: 112
+2025-03-31 12:33:24,774 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:24,781 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:24,782 [pdf_processor] [INFO] Dados da página 112 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:24,782 [pdf_processor] [INFO] Processando página 113 de 181
+2025-03-31 12:33:26,602 [pdf_processor] [INFO] Iniciando normalização da página: 113
+2025-03-31 12:33:26,602 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:26,609 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:26,610 [pdf_processor] [INFO] Dados da página 113 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:26,610 [pdf_processor] [INFO] Processando página 114 de 181
+2025-03-31 12:33:28,548 [pdf_processor] [INFO] Iniciando normalização da página: 114
+2025-03-31 12:33:28,548 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:28,554 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:28,555 [pdf_processor] [INFO] Dados da página 114 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:28,555 [pdf_processor] [INFO] Processando página 115 de 181
+2025-03-31 12:33:30,406 [pdf_processor] [INFO] Iniciando normalização da página: 115
+2025-03-31 12:33:30,406 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:30,413 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:30,414 [pdf_processor] [INFO] Dados da página 115 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:30,414 [pdf_processor] [INFO] Processando página 116 de 181
+2025-03-31 12:33:32,263 [pdf_processor] [INFO] Iniciando normalização da página: 116
+2025-03-31 12:33:32,263 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:32,269 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:32,270 [pdf_processor] [INFO] Dados da página 116 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:32,270 [pdf_processor] [INFO] Processando página 117 de 181
+2025-03-31 12:33:34,096 [pdf_processor] [INFO] Iniciando normalização da página: 117
+2025-03-31 12:33:34,096 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:34,103 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:34,103 [pdf_processor] [INFO] Dados da página 117 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:34,103 [pdf_processor] [INFO] Processando página 118 de 181
+2025-03-31 12:33:35,909 [pdf_processor] [INFO] Iniciando normalização da página: 118
+2025-03-31 12:33:35,909 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:35,916 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:35,917 [pdf_processor] [INFO] Dados da página 118 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:35,917 [pdf_processor] [INFO] Processando página 119 de 181
+2025-03-31 12:33:37,848 [pdf_processor] [INFO] Iniciando normalização da página: 119
+2025-03-31 12:33:37,848 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:37,855 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:37,856 [pdf_processor] [INFO] Dados da página 119 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:37,856 [pdf_processor] [INFO] Processando página 120 de 181
+2025-03-31 12:33:39,671 [pdf_processor] [INFO] Iniciando normalização da página: 120
+2025-03-31 12:33:39,671 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:39,677 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:39,678 [pdf_processor] [INFO] Dados da página 120 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:39,678 [pdf_processor] [INFO] Processando página 121 de 181
+2025-03-31 12:33:41,438 [pdf_processor] [INFO] Iniciando normalização da página: 121
+2025-03-31 12:33:41,438 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:41,445 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:41,446 [pdf_processor] [INFO] Dados da página 121 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:41,446 [pdf_processor] [INFO] Processando página 122 de 181
+2025-03-31 12:33:43,277 [pdf_processor] [INFO] Iniciando normalização da página: 122
+2025-03-31 12:33:43,277 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:43,284 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:43,285 [pdf_processor] [INFO] Dados da página 122 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:43,285 [pdf_processor] [INFO] Processando página 123 de 181
+2025-03-31 12:33:45,081 [pdf_processor] [INFO] Iniciando normalização da página: 123
+2025-03-31 12:33:45,081 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:45,088 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:45,089 [pdf_processor] [INFO] Dados da página 123 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:45,089 [pdf_processor] [INFO] Processando página 124 de 181
+2025-03-31 12:33:46,866 [pdf_processor] [INFO] Iniciando normalização da página: 124
+2025-03-31 12:33:46,866 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:46,873 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:46,874 [pdf_processor] [INFO] Dados da página 124 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:46,874 [pdf_processor] [INFO] Processando página 125 de 181
+2025-03-31 12:33:48,664 [pdf_processor] [INFO] Iniciando normalização da página: 125
+2025-03-31 12:33:48,664 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:48,671 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:48,672 [pdf_processor] [INFO] Dados da página 125 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:48,672 [pdf_processor] [INFO] Processando página 126 de 181
+2025-03-31 12:33:50,491 [pdf_processor] [INFO] Iniciando normalização da página: 126
+2025-03-31 12:33:50,491 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:50,497 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:50,498 [pdf_processor] [INFO] Dados da página 126 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:50,498 [pdf_processor] [INFO] Processando página 127 de 181
+2025-03-31 12:33:52,290 [pdf_processor] [INFO] Iniciando normalização da página: 127
+2025-03-31 12:33:52,290 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:52,297 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:52,298 [pdf_processor] [INFO] Dados da página 127 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:52,298 [pdf_processor] [INFO] Processando página 128 de 181
+2025-03-31 12:33:54,112 [pdf_processor] [INFO] Iniciando normalização da página: 128
+2025-03-31 12:33:54,112 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:54,118 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:54,119 [pdf_processor] [INFO] Dados da página 128 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:54,119 [pdf_processor] [INFO] Processando página 129 de 181
+2025-03-31 12:33:55,856 [pdf_processor] [INFO] Iniciando normalização da página: 129
+2025-03-31 12:33:55,856 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:55,863 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:55,864 [pdf_processor] [INFO] Dados da página 129 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:55,864 [pdf_processor] [INFO] Processando página 130 de 181
+2025-03-31 12:33:57,735 [pdf_processor] [INFO] Iniciando normalização da página: 130
+2025-03-31 12:33:57,735 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:57,742 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:57,742 [pdf_processor] [INFO] Dados da página 130 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:57,742 [pdf_processor] [INFO] Processando página 131 de 181
+2025-03-31 12:33:59,562 [pdf_processor] [INFO] Iniciando normalização da página: 131
+2025-03-31 12:33:59,562 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:33:59,568 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:33:59,569 [pdf_processor] [INFO] Dados da página 131 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:33:59,569 [pdf_processor] [INFO] Processando página 132 de 181
+2025-03-31 12:34:01,378 [pdf_processor] [INFO] Iniciando normalização da página: 132
+2025-03-31 12:34:01,379 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:01,386 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:01,386 [pdf_processor] [INFO] Dados da página 132 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:01,387 [pdf_processor] [INFO] Processando página 133 de 181
+2025-03-31 12:34:03,153 [pdf_processor] [INFO] Iniciando normalização da página: 133
+2025-03-31 12:34:03,153 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:03,160 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:03,160 [pdf_processor] [INFO] Dados da página 133 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:03,160 [pdf_processor] [INFO] Processando página 134 de 181
+2025-03-31 12:34:05,004 [pdf_processor] [INFO] Iniciando normalização da página: 134
+2025-03-31 12:34:05,004 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:05,011 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:05,012 [pdf_processor] [INFO] Dados da página 134 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:05,012 [pdf_processor] [INFO] Processando página 135 de 181
+2025-03-31 12:34:06,984 [pdf_processor] [INFO] Iniciando normalização da página: 135
+2025-03-31 12:34:06,984 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:06,990 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:06,991 [pdf_processor] [INFO] Dados da página 135 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:06,991 [pdf_processor] [INFO] Processando página 136 de 181
+2025-03-31 12:34:08,766 [pdf_processor] [INFO] Iniciando normalização da página: 136
+2025-03-31 12:34:08,766 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:08,772 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:08,773 [pdf_processor] [INFO] Dados da página 136 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:08,773 [pdf_processor] [INFO] Processando página 137 de 181
+2025-03-31 12:34:10,639 [pdf_processor] [INFO] Iniciando normalização da página: 137
+2025-03-31 12:34:10,639 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:10,645 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:10,646 [pdf_processor] [INFO] Dados da página 137 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:10,646 [pdf_processor] [INFO] Processando página 138 de 181
+2025-03-31 12:34:12,414 [pdf_processor] [INFO] Iniciando normalização da página: 138
+2025-03-31 12:34:12,414 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:12,420 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:12,421 [pdf_processor] [INFO] Dados da página 138 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:12,421 [pdf_processor] [INFO] Processando página 139 de 181
+2025-03-31 12:34:14,158 [pdf_processor] [INFO] Iniciando normalização da página: 139
+2025-03-31 12:34:14,158 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:14,165 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:14,166 [pdf_processor] [INFO] Dados da página 139 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:14,166 [pdf_processor] [INFO] Processando página 140 de 181
+2025-03-31 12:34:16,062 [pdf_processor] [INFO] Iniciando normalização da página: 140
+2025-03-31 12:34:16,063 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:16,070 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:16,071 [pdf_processor] [INFO] Dados da página 140 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:16,071 [pdf_processor] [INFO] Processando página 141 de 181
+2025-03-31 12:34:17,885 [pdf_processor] [INFO] Iniciando normalização da página: 141
+2025-03-31 12:34:17,885 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:17,892 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:17,892 [pdf_processor] [INFO] Dados da página 141 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:17,892 [pdf_processor] [INFO] Processando página 142 de 181
+2025-03-31 12:34:19,753 [pdf_processor] [INFO] Iniciando normalização da página: 142
+2025-03-31 12:34:19,753 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:19,760 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:19,761 [pdf_processor] [INFO] Dados da página 142 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:19,761 [pdf_processor] [INFO] Processando página 143 de 181
+2025-03-31 12:34:21,599 [pdf_processor] [INFO] Iniciando normalização da página: 143
+2025-03-31 12:34:21,599 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:21,605 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:21,606 [pdf_processor] [INFO] Dados da página 143 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:21,606 [pdf_processor] [INFO] Processando página 144 de 181
+2025-03-31 12:34:23,442 [pdf_processor] [INFO] Iniciando normalização da página: 144
+2025-03-31 12:34:23,442 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:23,449 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:23,450 [pdf_processor] [INFO] Dados da página 144 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:23,450 [pdf_processor] [INFO] Processando página 145 de 181
+2025-03-31 12:34:25,255 [pdf_processor] [INFO] Iniciando normalização da página: 145
+2025-03-31 12:34:25,255 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:25,262 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:25,262 [pdf_processor] [INFO] Dados da página 145 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:25,263 [pdf_processor] [INFO] Processando página 146 de 181
+2025-03-31 12:34:27,117 [pdf_processor] [INFO] Iniciando normalização da página: 146
+2025-03-31 12:34:27,117 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:27,124 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:27,125 [pdf_processor] [INFO] Dados da página 146 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:27,125 [pdf_processor] [INFO] Processando página 147 de 181
+2025-03-31 12:34:29,038 [pdf_processor] [INFO] Iniciando normalização da página: 147
+2025-03-31 12:34:29,038 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:29,045 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:29,046 [pdf_processor] [INFO] Dados da página 147 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:29,046 [pdf_processor] [INFO] Processando página 148 de 181
+2025-03-31 12:34:30,927 [pdf_processor] [INFO] Iniciando normalização da página: 148
+2025-03-31 12:34:30,927 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:30,935 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:30,935 [pdf_processor] [INFO] Dados da página 148 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:30,935 [pdf_processor] [INFO] Processando página 149 de 181
+2025-03-31 12:34:32,817 [pdf_processor] [INFO] Iniciando normalização da página: 149
+2025-03-31 12:34:32,817 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:32,824 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:32,825 [pdf_processor] [INFO] Dados da página 149 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:32,825 [pdf_processor] [INFO] Processando página 150 de 181
+2025-03-31 12:34:34,747 [pdf_processor] [INFO] Iniciando normalização da página: 150
+2025-03-31 12:34:34,747 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:34,753 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:34,754 [pdf_processor] [INFO] Dados da página 150 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:34,754 [pdf_processor] [INFO] Processando página 151 de 181
+2025-03-31 12:34:36,666 [pdf_processor] [INFO] Iniciando normalização da página: 151
+2025-03-31 12:34:36,666 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:36,674 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:36,675 [pdf_processor] [INFO] Dados da página 151 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:36,675 [pdf_processor] [INFO] Processando página 152 de 181
+2025-03-31 12:34:38,481 [pdf_processor] [INFO] Iniciando normalização da página: 152
+2025-03-31 12:34:38,481 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:38,487 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:38,488 [pdf_processor] [INFO] Dados da página 152 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:38,488 [pdf_processor] [INFO] Processando página 153 de 181
+2025-03-31 12:34:40,425 [pdf_processor] [INFO] Iniciando normalização da página: 153
+2025-03-31 12:34:40,425 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:40,432 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:40,433 [pdf_processor] [INFO] Dados da página 153 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:40,433 [pdf_processor] [INFO] Processando página 154 de 181
+2025-03-31 12:34:42,314 [pdf_processor] [INFO] Iniciando normalização da página: 154
+2025-03-31 12:34:42,314 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:42,322 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:42,322 [pdf_processor] [INFO] Dados da página 154 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:42,322 [pdf_processor] [INFO] Processando página 155 de 181
+2025-03-31 12:34:44,233 [pdf_processor] [INFO] Iniciando normalização da página: 155
+2025-03-31 12:34:44,233 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:44,240 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:44,241 [pdf_processor] [INFO] Dados da página 155 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:44,241 [pdf_processor] [INFO] Processando página 156 de 181
+2025-03-31 12:34:46,174 [pdf_processor] [INFO] Iniciando normalização da página: 156
+2025-03-31 12:34:46,175 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:46,181 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:46,182 [pdf_processor] [INFO] Dados da página 156 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:46,182 [pdf_processor] [INFO] Processando página 157 de 181
+2025-03-31 12:34:47,927 [pdf_processor] [INFO] Iniciando normalização da página: 157
+2025-03-31 12:34:47,927 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:47,933 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:47,934 [pdf_processor] [INFO] Dados da página 157 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:47,934 [pdf_processor] [INFO] Processando página 158 de 181
+2025-03-31 12:34:49,834 [pdf_processor] [INFO] Iniciando normalização da página: 158
+2025-03-31 12:34:49,834 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:49,841 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:49,841 [pdf_processor] [INFO] Dados da página 158 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:49,841 [pdf_processor] [INFO] Processando página 159 de 181
+2025-03-31 12:34:51,655 [pdf_processor] [INFO] Iniciando normalização da página: 159
+2025-03-31 12:34:51,655 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:51,663 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:51,663 [pdf_processor] [INFO] Dados da página 159 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:51,663 [pdf_processor] [INFO] Processando página 160 de 181
+2025-03-31 12:34:53,431 [pdf_processor] [INFO] Iniciando normalização da página: 160
+2025-03-31 12:34:53,432 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:53,440 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:53,441 [pdf_processor] [INFO] Dados da página 160 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:53,441 [pdf_processor] [INFO] Processando página 161 de 181
+2025-03-31 12:34:55,464 [pdf_processor] [INFO] Iniciando normalização da página: 161
+2025-03-31 12:34:55,465 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:55,471 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:55,472 [pdf_processor] [INFO] Dados da página 161 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:55,472 [pdf_processor] [INFO] Processando página 162 de 181
+2025-03-31 12:34:57,315 [pdf_processor] [INFO] Iniciando normalização da página: 162
+2025-03-31 12:34:57,315 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:57,322 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:57,323 [pdf_processor] [INFO] Dados da página 162 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:57,323 [pdf_processor] [INFO] Processando página 163 de 181
+2025-03-31 12:34:59,297 [pdf_processor] [INFO] Iniciando normalização da página: 163
+2025-03-31 12:34:59,297 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:34:59,304 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:34:59,305 [pdf_processor] [INFO] Dados da página 163 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:34:59,305 [pdf_processor] [INFO] Processando página 164 de 181
+2025-03-31 12:35:01,207 [pdf_processor] [INFO] Iniciando normalização da página: 164
+2025-03-31 12:35:01,207 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:01,214 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:01,215 [pdf_processor] [INFO] Dados da página 164 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:01,215 [pdf_processor] [INFO] Processando página 165 de 181
+2025-03-31 12:35:02,978 [pdf_processor] [INFO] Iniciando normalização da página: 165
+2025-03-31 12:35:02,978 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:02,984 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:02,985 [pdf_processor] [INFO] Dados da página 165 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:02,985 [pdf_processor] [INFO] Processando página 166 de 181
+2025-03-31 12:35:04,888 [pdf_processor] [INFO] Iniciando normalização da página: 166
+2025-03-31 12:35:04,888 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:04,894 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:04,895 [pdf_processor] [INFO] Dados da página 166 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:04,895 [pdf_processor] [INFO] Processando página 167 de 181
+2025-03-31 12:35:06,781 [pdf_processor] [INFO] Iniciando normalização da página: 167
+2025-03-31 12:35:06,782 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:06,788 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:06,789 [pdf_processor] [INFO] Dados da página 167 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:06,789 [pdf_processor] [INFO] Processando página 168 de 181
+2025-03-31 12:35:08,764 [pdf_processor] [INFO] Iniciando normalização da página: 168
+2025-03-31 12:35:08,765 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:08,773 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:08,774 [pdf_processor] [INFO] Dados da página 168 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:08,774 [pdf_processor] [INFO] Processando página 169 de 181
+2025-03-31 12:35:10,843 [pdf_processor] [INFO] Iniciando normalização da página: 169
+2025-03-31 12:35:10,843 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:10,850 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:10,850 [pdf_processor] [INFO] Dados da página 169 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:10,850 [pdf_processor] [INFO] Processando página 170 de 181
+2025-03-31 12:35:12,795 [pdf_processor] [INFO] Iniciando normalização da página: 170
+2025-03-31 12:35:12,795 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:12,802 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:12,803 [pdf_processor] [INFO] Dados da página 170 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:12,803 [pdf_processor] [INFO] Processando página 171 de 181
+2025-03-31 12:35:14,649 [pdf_processor] [INFO] Iniciando normalização da página: 171
+2025-03-31 12:35:14,649 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:14,655 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:14,656 [pdf_processor] [INFO] Dados da página 171 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:14,656 [pdf_processor] [INFO] Processando página 172 de 181
+2025-03-31 12:35:16,478 [pdf_processor] [INFO] Iniciando normalização da página: 172
+2025-03-31 12:35:16,478 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:16,485 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:16,485 [pdf_processor] [INFO] Dados da página 172 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:16,485 [pdf_processor] [INFO] Processando página 173 de 181
+2025-03-31 12:35:18,290 [pdf_processor] [INFO] Iniciando normalização da página: 173
+2025-03-31 12:35:18,290 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:18,296 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:18,297 [pdf_processor] [INFO] Dados da página 173 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:18,297 [pdf_processor] [INFO] Processando página 174 de 181
+2025-03-31 12:35:20,246 [pdf_processor] [INFO] Iniciando normalização da página: 174
+2025-03-31 12:35:20,246 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:20,253 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:20,254 [pdf_processor] [INFO] Dados da página 174 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:20,254 [pdf_processor] [INFO] Processando página 175 de 181
+2025-03-31 12:35:22,180 [pdf_processor] [INFO] Iniciando normalização da página: 175
+2025-03-31 12:35:22,180 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:22,186 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:22,187 [pdf_processor] [INFO] Dados da página 175 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:22,187 [pdf_processor] [INFO] Processando página 176 de 181
+2025-03-31 12:35:24,045 [pdf_processor] [INFO] Iniciando normalização da página: 176
+2025-03-31 12:35:24,045 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:24,052 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:24,053 [pdf_processor] [INFO] Dados da página 176 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:24,053 [pdf_processor] [INFO] Processando página 177 de 181
+2025-03-31 12:35:25,852 [pdf_processor] [INFO] Iniciando normalização da página: 177
+2025-03-31 12:35:25,852 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:25,859 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:25,859 [pdf_processor] [INFO] Dados da página 177 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:25,859 [pdf_processor] [INFO] Processando página 178 de 181
+2025-03-31 12:35:27,688 [pdf_processor] [INFO] Iniciando normalização da página: 178
+2025-03-31 12:35:27,688 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:27,695 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:27,695 [pdf_processor] [INFO] Dados da página 178 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:27,695 [pdf_processor] [INFO] Processando página 179 de 181
+2025-03-31 12:35:29,547 [pdf_processor] [INFO] Iniciando normalização da página: 179
+2025-03-31 12:35:29,547 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:29,554 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:29,554 [pdf_processor] [INFO] Dados da página 179 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:29,554 [pdf_processor] [INFO] Processando página 180 de 181
+2025-03-31 12:35:31,397 [pdf_processor] [INFO] Iniciando normalização da página: 180
+2025-03-31 12:35:31,397 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:31,404 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:31,404 [pdf_processor] [INFO] Dados da página 180 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:31,405 [pdf_processor] [INFO] Processando página 181 de 181
+2025-03-31 12:35:33,145 [pdf_processor] [INFO] Iniciando normalização da página: 181
+2025-03-31 12:35:33,145 [pdf_processor] [INFO] Iniciando normalização da tabela
+2025-03-31 12:35:33,152 [pdf_processor] [INFO] Normalização da tabela concluída
+2025-03-31 12:35:33,152 [pdf_processor] [INFO] Dados da página 181 salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:33,153 [pdf_processor] [INFO] Processamento concluído. Todos os dados foram salvos em ../output/csv/dados_normalizados.csv
+2025-03-31 12:35:33,156 [pdf_processor] [INFO] Arquivo ZIP criado em ../output/zip/Teste_GustavoMalta.zip
