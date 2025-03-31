@@ -1,0 +1,15 @@
+2025.03.30 20:22:29 [WebScraper.webScraping] [INFO] Serviço iniciado
+2025.03.30 20:22:29 [ConfigLoader.static] [INFO] ConfigLoader iniciado
+2025.03.30 20:22:29 [ConfigLoader.getProperty] [INFO] Propriedade lida: webscraper.url = https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos
+2025.03.30 20:22:29 [ConfigLoader.getProperty] [INFO] Propriedade lida: webscraper.arquivos = Anexo I.pdf,Anexo II.pdf
+2025.03.30 20:22:29 [HtmlAnalyzer.obterLinksDosArquivos] [INFO] Iniciando extração de links da URL: https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos
+2025.03.30 20:22:30 [HtmlAnalyzer.obterLinksDosArquivos] [INFO] Total de links encontrados na página: 626
+2025.03.30 20:22:30 [HtmlAnalyzer.obterLinksDosArquivos] [INFO] Arquivo correspondente encontrado: https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos/Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025.03.30 20:22:30 [HtmlAnalyzer.obterLinksDosArquivos] [INFO] Arquivo correspondente encontrado: https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos/Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025.03.30 20:22:30 [HtmlAnalyzer.obterLinksDosArquivos] [INFO] Total de arquivos extraídos: 2
+2025.03.30 20:22:30 [ConfigLoader.getProperty] [INFO] Propriedade lida: webscraper.downloadFolder = ../output/download
+2025.03.30 20:22:46 [DownloaderUtil.baixarArquivos] [INFO] Download concluído: Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf
+2025.03.30 20:22:48 [DownloaderUtil.baixarArquivos] [INFO] Download concluído: Anexo_II_DUT_2021_RN_465.2021_RN628.2025_RN629.2025.pdf
+2025.03.30 20:22:48 [ConfigLoader.getProperty] [INFO] Propriedade lida: webscraper.downloadFolder = ../output/download
+2025.03.30 20:22:48 [ConfigLoader.getProperty] [INFO] Propriedade lida: webscraper.zipFolder = ../output/zip
+2025.03.30 20:22:48 [CompressUtil.compactarArquivos] [INFO] Arquivos compactados com sucesso em: C:\Projects\intuitive-care\webscraper\..\output\zip\Teste_Gustavo.zip
