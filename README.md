@@ -9,7 +9,7 @@ Tecnologias e plataformas a serem utilizadas:
 	* Vue.js
 	* Postman
 ```
-
+[Resultados dos testes 1 e 2.](./output/)
 
 [**1. Teste de Web Scraping:**](./webscraper/README.md) 
 Utilizado Java. 
