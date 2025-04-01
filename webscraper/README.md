@@ -1,7 +1,7 @@
 # Web Scraping
 
 **Objetivo:** coletar os anexos I e II em PDF do site.<br>
-**Linguagem utilizada:** Java 17
+**Linguagem utilizada:** Java 21
 
 > **1.** Acessar o site<br>
 > **2.** Download dos arquivos<br>
