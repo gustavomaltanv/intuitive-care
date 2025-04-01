@@ -1,35 +1,36 @@
 # Desafio: Intuitive Care
 
 ## Realização dos testes de nivelamento - 2025.1
-```
+```sql
 Tecnologias e plataformas a serem utilizadas:
 	* Java
 	* Python
-	* SQL
+	* PostgreSQL
 	* Vue.js
 	* Postman
 ```
 
-### Testes a serem realizados:
 
-**1. Teste de Web Scraping:** 
-Será utilizado a linguagem Python ou Java. 
+[**1. Teste de Web Scraping:**](./webscraper/README.md) 
+Utilizado Java. 
 ```
 1.1. acesso ao site fornecido;
 1.2. download dos Anexos I e II em PDF;
 1.3. compactação dos arquivos.
 ```
 
-**2. Teste de Transformação de Dados:**
-Será utilizado a linguagem Python ou Java.
+[**2. Teste de Transformação de Dados:**](./transformacao_dados/README.md)
+Utilizado Python.
+
+OBS: foi criado com o [Jupyter Notebook](./transformacao_dados-jupyter/) e posteriormente exportado como [script](./transformacao_dados/).
 ```
 2.1. extrair os dados do Anexo I do teste anterior;
 2.2. salvar os dados em um arquivo .csv;
 2.3. compactar os arquivos .csv para "Teste_GustavoMalta.zip";
 2.4. substituir as abreviações das colunas OD e AMB pelas descrições completas., conforme rodapé do arquivo.
 ```
-**3. Teste de Banco de Dados:**
-Será utilizado SQL.
+[**3. Teste de Banco de Dados:**](./banco-de-dados/README.md)
+Utilizado PostgreSQL através do psql.
 
 * Preparação:
 ```
@@ -47,7 +48,7 @@ Será utilizado SQL.
 ```
 
 
-**4. Teste de API:**
+[**4. Teste de API:**](./api/README.md)
 Será utilizado o Vue.js para criação de uma interface web e conexão com um servidor Python.
 
 * Preparação:
