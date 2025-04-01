@@ -1,0 +1,195 @@
+{
+	"info": {
+		"_postman_id": "5982f045-3245-4d5a-9df8-00dd5cb0d344",
+		"name": "ServidorFastAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43512884",
+		"_collection_link": "https://gustavomalta-7249654.postman.co/workspace/Gustavo-Malta's-Workspace~46d731fb-074e-456b-83bd-3796fe8693b5/collection/43512884-5982f045-3245-4d5a-9df8-00dd5cb0d344?action=share&source=collection_link&creator=43512884"
+	},
+	"item": [
+		{
+			"name": "Servidor ativo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Busca de termo com retorno",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/registros/busca/?termo=Unimed",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"registros",
+						"busca",
+						""
+					],
+					"query": [
+						{
+							"key": "termo",
+							"value": "Unimed"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Busca de termo sem retorno",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/registros/busca/?termo=disoajdoaisjdoasdjioasjd&offset=0&limit=20",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"registros",
+						"busca",
+						""
+					],
+					"query": [
+						{
+							"key": "termo",
+							"value": "disoajdoaisjdoasdjioasjd"
+						},
+						{
+							"key": "offset",
+							"value": "0"
+						},
+						{
+							"key": "limit",
+							"value": "20"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Busca de termo específico com retorno",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/registros/busca/campo/?campo=Nome_Fantasia&termo=Unimed",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"registros",
+						"busca",
+						"campo",
+						""
+					],
+					"query": [
+						{
+							"key": "campo",
+							"value": "Nome_Fantasia"
+						},
+						{
+							"key": "termo",
+							"value": "Unimed"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Busca de termo específico sem retorno",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/registros/busca/campo/?campo=Nome_Fantasia&termo=dadsdsadsadasdasd",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"registros",
+						"busca",
+						"campo",
+						""
+					],
+					"query": [
+						{
+							"key": "campo",
+							"value": "Nome_Fantasia"
+						},
+						{
+							"key": "termo",
+							"value": "dadsdsadsadasdasd"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Obter cabeçalhos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/registros/cabecalho/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"registros",
+						"cabecalho",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
